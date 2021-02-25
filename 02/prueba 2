@@ -1,1 +1,20 @@
-asd
+<HTML>
+<head>
+
+</head>
+
+<body>
+<h1> HTML </h1>
+<h1> ¿Qué es HTML? </h1>
+
+<p> HTML, siglas en inglés de HyperText Markup Language (‘lenguaje de marcas de hipertexto’), hace referencia al lenguaje de marcado para la elaboración de páginas web. Es un estándar que sirve de referencia del software que conecta con la elaboración de páginas web en sus diferentes versiones, define una estructura básica y un código (denominado código HTML) para la definición de contenido de una página web, como texto, imágenes, videos, juegos, entre otros
+</p>
+
+<p> Para mas detalle haz click 
+<a href='https://images3.memedroid.com/images/UPLOADED171/5f3cc665c2dbf.jpeg'>en este enlace</a>
+</p> 
+
+<h1> Editores de texto recomendado </h1> 
+
+</body>
+</HTML>
