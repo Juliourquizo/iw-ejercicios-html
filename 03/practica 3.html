@@ -1,0 +1,38 @@
+<form>
+
+    <fieldset>
+        <legend> Datos de usuario </legend>
+        Nombre: <input type="text"> <br>
+        <p>Eres socio</p>
+        <input type="radio" name="socio" value="socio"> Si, soy socio. 
+        <input type="radio" name="socio" value="noSocio"> No, soy socio. <br>
+
+        <p>Email: <input type="email"> </p>
+        <p>Contraseña: <input type="password"> <br></p>
+
+    </fieldset>
+
+    <fieldset>
+        <legend>Datos de la reserva</legend>
+        <p> Edad
+    <select id="lista1" name="edad" >
+        <optgroup label="Edad">
+            <option>Menor de 18</option>
+            <option>Mayor de 18</option>
+            <option selected>-------</option>
+        </optgroup>
+    </select> </p> 
+
+    <p>Selecciona la fecha y la hora de reserva </p>
+    <input type="date"> 
+    <input type="time"> <br>
+
+    <br>
+
+    <textarea name="textarea" rows="10" cols="20">
+    Comentarios
+    </textarea>
+
+    </fieldset>
+
+</form>
